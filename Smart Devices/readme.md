@@ -1,7 +1,7 @@
 # **Smart Devices**
 ---
 ### Vulnerabilities with Websites (10 Minutes)
-Let's go through some examples of how a website may be vulnerable
+- Let's go through some examples of how a website may be vulnerable
 ---
 ### Setting up website (5 Minutes)
 1. Download zip file from this project folder
@@ -18,5 +18,5 @@ Let's go through some examples of how a website may be vulnerable
 6. Demonstration time
 7. Congrats now you have a basic understanding of Burp Suite
 ---
-### Try to mess around with the sequence of the light
-This is how you will recieve your points for this lab
+### Try to mess around with the sequence of the light (35 Minutes)
+This is how you will receive your points for this lab
