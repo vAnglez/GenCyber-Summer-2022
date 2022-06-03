@@ -50,7 +50,11 @@ sudo ./install.sh
 
 ---
 
-### Test Software on NodeMCU(35 Minutes)
+### Explain an ESP8266 example project(5 Minutes)
+
+---
+
+### Test Software on NodeMCU(30 Minutes)
 1. On the top left of the Arduino software hit "Tools"
 2. Go under "Board: "Arduino Uno"" (assuming it's your first time with this software) and hit "ESP8266 Boards (3.0.1)" then scroll until you can click "NodeMCU 1.0 (ESP-12E Module)"
 3. Go back and then click "Port" which should be under the "Tools" section we hit before and then select "/dev/ttyUSB0"
