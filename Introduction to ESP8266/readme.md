@@ -4,7 +4,11 @@
 
 #### This is a great microcontroller under $5 to start with when getting into cybersecurity/networking but before anything, let's get our environment going  
 
+---
 
+### Quick Lecture (5 Minutes)
+
+---
 
 ### Download Arduino Software on Kali Linux (5 Minutes)
 1. Open Browser
@@ -46,7 +50,7 @@ sudo ./install.sh
 
 ---
 
-### Test Software on NodeMCU(40 Minutes)
+### Test Software on NodeMCU(35 Minutes)
 1. On the top left of the Arduino software hit "Tools"
 2. Go under "Board: "Arduino Uno"" (assuming it's your first time with this software) and hit "ESP8266 Boards (3.0.1)" then scroll until you can click "NodeMCU 1.0 (ESP-12E Module)"
 3. Go back and then click "Port" which should be under the "Tools" section we hit before and then select "/dev/ttyUSB0"
