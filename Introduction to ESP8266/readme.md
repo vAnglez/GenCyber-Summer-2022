@@ -66,3 +66,10 @@ sudo ./install.sh
 9. Have some fun and instead of using the "BlinkWithoutDelay" example you can try other examples to prepare yourself for the other labs that will require you to upload code and perhaps tweak.
 
 ![Test Software](media/TestSoftware.gif)
+
+---
+
+### *Note: To fully clear/flash the board follow this before picking the port*
+1. Hit tools
+2. Then "Erase Flash" should be set to "All Flash Contents"
+3. Now you can pick your port and upload your software
